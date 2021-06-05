@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aj-Movies/static/css/main.d28fc6b7.chunk.css",
+    "main.js": "/Aj-Movies/static/js/main.6897783d.chunk.js",
+    "main.js.map": "/Aj-Movies/static/js/main.6897783d.chunk.js.map",
+    "runtime-main.js": "/Aj-Movies/static/js/runtime-main.1d1a7688.js",
+    "runtime-main.js.map": "/Aj-Movies/static/js/runtime-main.1d1a7688.js.map",
+    "static/js/2.180d86fb.chunk.js": "/Aj-Movies/static/js/2.180d86fb.chunk.js",
+    "static/js/2.180d86fb.chunk.js.map": "/Aj-Movies/static/js/2.180d86fb.chunk.js.map",
+    "index.html": "/Aj-Movies/index.html",
+    "precache-manifest.c83cf25bdd26aa0f54e8a954ad4fe7a7.js": "/Aj-Movies/precache-manifest.c83cf25bdd26aa0f54e8a954ad4fe7a7.js",
+    "service-worker.js": "/Aj-Movies/service-worker.js",
+    "static/css/main.d28fc6b7.chunk.css.map": "/Aj-Movies/static/css/main.d28fc6b7.chunk.css.map",
+    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/Aj-Movies/static/js/2.180d86fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d1a7688.js",
+    "static/js/2.180d86fb.chunk.js",
+    "static/css/main.d28fc6b7.chunk.css",
+    "static/js/main.6897783d.chunk.js"
+  ]
+}
